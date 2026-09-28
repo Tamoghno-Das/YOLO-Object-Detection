@@ -70,6 +70,11 @@ pip install matplotlib
 
 ---
 
+## Screenshot of the output
+
+<img width="1917" height="1095" alt="Screenshot 2026-09-29 021318" src="https://github.com/user-attachments/assets/f8bf37cf-1475-4790-a763-199ecaa9f443" />
+
+
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
